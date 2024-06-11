@@ -1,0 +1,42 @@
+_repo: Metropolis_73727
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan, John Brian Francis
+    - Gaughan
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+creator:
+  author:
+    agent_name: Harbou, Thea von
+    alias: Von Harbou, Thea
+    birthdate: 1888
+    deathdate: 1954
+    gutenberg_agent_id: '57125'
+    url: http://www.gutenberg.org/2009/agents/57125
+    wikipedia: https://en.wikipedia.org/wiki/Thea_von_Harbou
+description: ''
+gutenberg_issued: '2024-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73727'
+language: en
+pgterms:marc904: https://archive.org/details/TheaVonHarbou19271963Mertopolis/Thea%20Von%20Harbou%20%281927-1963%29%20Mertopolis/
+pgterms:marc905: 20240316065237vonharbou
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bAce Books, $c1927, copyright 1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Metropolis
+url: http://www.gutenberg.org/ebooks/73727
