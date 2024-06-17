@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '35615'
     url: http://www.gutenberg.org/2009/agents/35615
     wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+covers:
+- cover_type: archival
+  image_path: 73727-h/images/cover.jpg
 creator:
   author:
     agent_name: Harbou, Thea von
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57125
     wikipedia: https://en.wikipedia.org/wiki/Thea_von_Harbou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73727#Metropolis
 gutenberg_issued: '2024-05-29'
 gutenberg_type: Text
 identifiers:
